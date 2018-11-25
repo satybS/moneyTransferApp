@@ -1,0 +1,16 @@
+com.revolut.moneytransfer
+com.revolut.moneytransfer.config
+com.revolut.moneytransfer.dao
+com.revolut.moneytransfer.dao.impl
+com.revolut.moneytransfer.exceptions
+com.revolut.moneytransfer.model
+com.revolut.moneytransfer.service
+com.revolut.moneytransfer.service.impl
+com.revolut.moneytransfer.setup
+com.revolut.moneytransfer.utils
+com.revolut.moneytransfer.web.controllers
+com.revolut.moneytransfer.web.controllers.exceptionhandlers
+com.revolut.moneytransfer.web.dto
+com.revolut.moneytransfer.web.facade
+com.revolut.moneytransfer.web.facade.convertors
+com.revolut.moneytransfer.web.facade.impl
